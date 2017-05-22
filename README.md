@@ -1,10 +1,14 @@
 # feature_generation
-Prototying Feature Generation Tools for Spar.
-(`lazy work in progress`)
+Prototying Feature Generation Tools for Spark.
+(`lazy` work in progress to make a lame scala joke)
 
 ## Includes
 • VIF Calculation to find and flag co-linear features in a Spark DataFrame
 • Top-X One-Hot Encoding of String Array Features
+
+### Environment
+Uses Spark 2.1.1 
+Scala 2.11
 
 
 ### To-Dos
